@@ -1,0 +1,6 @@
+cloud computing
+cloud computing provide services like storage , virtualization , networking and manu different services over internet.
+there are 3 types of cloud 
+1)public
+2)private
+3)hybrid
